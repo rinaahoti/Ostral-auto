@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Add Listing</title>
+  <link rel="stylesheet" href="css/add-listing.css" />
+   <link rel="stylesheet" href="css/dashboard.css">
+  <!-- font-awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css">
+  <!-- font awesome -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/regular.min.css">
+</head>
+<body>
+
+  <div class="dashboard-container">
+    <aside class="sidebar">
+      <h2 class="logo">BOXCARS</h2>
+      <ul class="sidebar-menu">
+        <li><a href="dashboard.html"><i class="fa-solid fa-house-user"></i>Dashboard</a></li>
+        <li><a href="my-listings.html"><i class="fa-solid fa-list"></i>My Listings</a></li>
+        <li class="active"><a href="add-listing.html"><i class="fa-solid fa-square-plus"></i>Add Listings</a></li>
+        <li><a href="my-favorites.html"><i class="fa-regular fa-bookmark"></i>My Favorites</a></li>
+        <li><a href="saved-search.html"><i class="fa-solid fa-magnifying-glass"></i>Saved Search</a></li>
+        <li><a href="messages.html"><i class="fa-solid fa-inbox"></i>Messages</a></li>
+        <li><a href="profile.html"><i class="fa-regular fa-user"></i>My Profile</a></li>
+        <li id="logout"><i class="fa-solid fa-arrow-right-from-bracket"></i>Logout</li>
+      </ul>
+    </aside> 
+
+    <div class="container">
+      <h1>Add Listings</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur.</p>
+
+      <div class="tabs">
+        <button class="tab-button active" data-tab="details">Car Details</button>
+        <button class="tab-button" data-tab="price">Price</button>
+        <button class="tab-button" data-tab="features">Features</button>
+        <button class="tab-button" data-tab="media">Media</button>
+      </div>
+
+      <form id="addForm">
+        <div id="tab-details" class="tab-content active">
+          <div class="grid">
+            <input type="text" placeholder="Listing Title" />
+            <input type="text" placeholder="Category" />
+            <input type="text" placeholder="Label" />
+            <input type="text" placeholder="Condition" />
+            <input type="text" placeholder="Type" />
+            <input type="text" placeholder="Make" />
+            <input type="text" placeholder="Model" />
+            <input type="text" placeholder="Year" />
+            <input type="text" placeholder="Offer Type" />
+            <input type="text" placeholder="Drive Type" />
+            <input type="text" placeholder="Transmission" />
+            <input type="text" placeholder="Fuel Type" />
+            <input type="text" placeholder="Mileage" />
+            <input type="text" placeholder="Engine Size" />
+            <input type="text" placeholder="Door" />
+            <input type="text" placeholder="Color" />
+            <input type="text" placeholder="Cylinder" />
+            <input type="text" placeholder="VIN" />
+          </div>
+          <textarea placeholder="Listing Description"></textarea>
+          <button type="button" class="next-btn" data-next="price">Next Price</button>
+        </div>
+
+        <div id="tab-price" class="tab-content">
+          <input type="text" placeholder="Price ($)" />
+          <input type="text" placeholder="Price Prefix" />
+          <small>Any text shown before price (for example: from).</small>
+          <input type="text" placeholder="Price Suffix" />
+          <small>Any text shown after price (for example: per night).</small>
+          <input type="text" placeholder="Price Custom" />
+          <small>Any text instead of price (for example: by agreement).</small>
+          <button type="button" class="next-btn" data-next="features">Next Features</button>
+        </div>
+
+        <div id="tab-features" class="tab-content">
+          <div class="checkbox-grid">
+            <label><input type="checkbox" /> Heated Seats</label>
+            <label><input type="checkbox" /> Apple CarPlay/Android Auto</label>
+            <label><input type="checkbox" /> Airbag - Driver</label>
+            <label><input type="checkbox" /> Center Console</label>
+            <label><input type="checkbox" /> Alloy Wheels</label>
+            <label><input type="checkbox" /> Heated Steering Wheel</label>
+            <label><input type="checkbox" /> Navigation System</label>
+            <label><input type="checkbox" /> Bluetooth</label>
+            <label><input type="checkbox" /> HomeLink</label>
+            <label><input type="checkbox" /> Airbag - Passenger</label>
+          </div>
+          <button type="button" class="next-btn" data-next="media">Next Media</button>
+        </div>
+
+
+        <div id="tab-media" class="tab-content">
+  <div class="gallery">
+    <div class="img-box">
+      <label for="imageUpload" style="cursor:pointer;">
+        <span style="font-size:14px;">Upload Image</span>
+      </label>
+      <input type="file" id="imageUpload" accept="image/*" style="display:none;" />
+    </div>
+  </div>
+
+  <p class="note">
+    Max file size is 1MB, Minimum dimension: 330x300. Suitable files: .jpg & .png
+  </p>
+
+  <div class="attachments">
+    <div class="attach-box">View VIN Report</div>
+    <div class="attach-box">Upload</div>
+  </div>
+
+  <input type="text" placeholder="Video Link" />
+  <small>Enter Youtube or Vimeo URL.</small>
+
+  <button type="submit" class="next-btn">Submit Listing</button>
+</div>
+
+      </form>
+    </div>
+  </div>
+  <script src="js/add-listing.js"></script>
+</body>
+</html>

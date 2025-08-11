@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Saved Searches | Boxcars Admin</title>
+  <link rel="stylesheet" href="css/add-listing.css" />
+  <link rel="stylesheet" href="css/saved-search.css" />
+
+     <!-- font-awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css">
+  <!-- font awesome -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/regular.min.css">
+</head>
+<body>
+  <div class="dashboard-container">
+    <aside class="sidebar">
+      <h2 class="logo">BOXCARS</h2>
+      <ul class="sidebar-menu">
+        <li><a href="dashboard.html"><i class="fa-solid fa-house-user"></i>Dashboard</a></li>
+        <li><a href="my-listings.html"><i class="fa-solid fa-list"></i>My Listings</a></li>
+        <li><a href="add-listing.html"><i class="fa-solid fa-square-plus"></i>Add Listings</a></li>
+        <li><a href="my-favorites.html"><i class="fa-regular fa-bookmark"></i>My Favorites</a></li>
+        <li class="active"><a href="saved-search.html"><i class="fa-solid fa-magnifying-glass"></i>Saved Search</a></li>
+        <li><a href="messages.html"><i class="fa-solid fa-inbox"></i>Messages</a></li>
+        <li><a href="profile.html"><i class="fa-regular fa-user"></i>My Profile</a></li>
+        <li id="logout"><i class="fa-solid fa-arrow-right-from-bracket"></i>Logout</li>
+      </ul>
+    </aside> 
+
+ <!-- MAIN SECTION -->
+    <div class="main-section">
+      <h1>Saved Searches</h1>
+      <p class="subtext">Here are your recent car search filters saved from index and carsforsale pages.</p>
+
+      <table class="listings-table">
+        <thead>
+          <tr>
+            <th>From</th>
+            <th>Make</th>
+            <th>Year</th>
+            <th>Price</th>
+            <th>Fuel</th>
+            <th>Transmission</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody id="savedSearchTable"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script src="js/saved-search.js"></script>
+</body>
+</html>

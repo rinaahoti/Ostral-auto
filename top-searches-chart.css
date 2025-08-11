@@ -1,0 +1,32 @@
+/* top-searches-chart.css */
+#topSearchChart {
+  width: 100%;
+  max-width: 800px;
+  height: 250px;
+  margin: 0 auto;
+  display: block;
+}
+
+.chart-box {
+  background-color: #ffffff;
+  padding: 20px;
+  margin-top: 25px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.chart-box h4 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #2a4df0;
+  margin-bottom: 15px;
+}
+
+#topSearchChart {
+  width: 100% ;
+  height: auto;
+}
+
+canvas {
+  background-color: transparent;
+}

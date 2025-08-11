@@ -1,0 +1,141 @@
+/* Layout */
+.cart-layout {
+  display: flex;
+  gap: 32px;
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 48px 0;
+}
+
+.main-col {
+  flex: 2;
+}
+
+.side-col {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* Table */
+.cart-table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.cart-table th,
+.cart-table td {
+  padding: 12px;
+  text-align: center;
+  border-bottom: 1px solid #eee;
+}
+
+.cart-table th {
+  background: #f0f4ff;
+  font-weight: 600;
+}
+
+.cart-product {
+  text-align: left;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.cart-product img {
+  width: 60px;
+  border-radius: 8px;
+}
+
+/* Buttons inside table */
+.cart-table button {
+  padding: 4px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background: #f8f8f8;
+  border-radius: 4px;
+}
+
+.cart-table button:hover {
+  background: #e4e4e4;
+}
+
+/* Checkout form */
+.checkout-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 18px;
+}
+
+.checkout-form input[type="text"],
+.checkout-form input[type="email"] {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 0.95rem;
+  width: 100%;
+}
+
+.form-row {
+  display: flex;
+  gap: 16px;
+}
+
+.payment-options label {
+  display: block;
+  margin-bottom: 6px;
+  font-weight: normal;
+}
+
+/* Cart totals */
+.cart-total-box h2 {
+  font-size: 1.25rem;
+  margin-bottom: 20px;
+}
+
+.cart-total-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 14px;
+  font-size: 1rem;
+}
+
+.cart-total-row strong {
+  font-weight: 700;
+}
+
+/* Buttons */
+.btn-main {
+  width: 100%;
+  background: #2a4df0;
+  color: #fff;
+  padding: 12px 0;
+  font-size: 16px;
+  border: none;
+  border-radius: 12px;
+  font-weight: 600;
+  box-shadow: 0 1.5px 5px rgba(40, 53, 143, 0.06);
+  cursor: pointer;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-main:hover {
+  background: #183fc5;
+}
+
+.w100 {
+  width: 100%;
+}
+
+
+.box{
+  display: none;
+}

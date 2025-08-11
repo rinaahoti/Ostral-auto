@@ -1,0 +1,145 @@
+/* my-profile.css - elegant layout */
+
+.main-section {
+  padding: 40px;
+  background: #f7f9fc;
+  flex: 1;
+}
+
+.main-section h1 {
+  font-size: 28px;
+  color: #1a2038;
+  margin-bottom: 30px;
+}
+
+
+/* .sidebar ul li a {
+  display: block;
+  padding: 12px 20px;
+  color: #333;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background 0.2s ease;
+}
+
+.sidebar ul li a:hover {
+  background-color: #f0f4ff;
+  color: #2a4df0;
+}
+
+.sidebar ul li a.active {
+  background-color: #2a4df0;
+  color: white;
+} */
+
+.sidebar ul li a:hover {
+  color: #2a4df0;
+}
+
+.sidebar ul li a.active {
+  color: #2a4df0;}
+
+.profile-box {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  padding: 24px;
+  margin-bottom: 30px;
+}
+
+.profile-header {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.profile-avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.profile-meta {
+  flex-grow: 1;
+}
+
+.profile-meta h2 {
+  margin: 0;
+  font-size: 20px;
+  color: #1a2038;
+}
+
+.profile-meta p {
+  margin: 4px 0;
+  color: #6a6e77;
+}
+
+.edit-btn {
+  background: #edf1f9;
+  color: #2a4df0;
+  border: none;
+  padding: 8px 14px;
+  font-size: 14px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.info-box {
+  background: white;
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.box-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.box-header h3 {
+  margin: 0;
+  font-size: 18px;
+  color: #1a2038;
+}
+
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+}
+
+.info-grid div {
+  background: #f8f9fc;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.info-grid strong {
+  font-size: 14px;
+  color: #999;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.info-grid p {
+  font-size: 15px;
+  color: #1a2038;
+  margin: 0;
+}
+
+.full-width {
+  grid-column: 1 / -1;
+}
+#avatarInput {
+  width: 110px;
+  color: transparent;
+}
+
+
+

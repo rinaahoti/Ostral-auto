@@ -1,0 +1,208 @@
+/* pjesa e listingut nalt */
+.car-listing-section {
+  margin-left: 340px;
+  padding: 20px 40px;
+}
+
+.listing-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.sort-dropdown {
+  padding: 7px 16px;
+  border-radius: 6px;
+  border: 1px solid #eee;
+  background: #fafafa;
+}
+
+.car-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+}
+
+/* stili i kartess te makines */
+.car-card {
+  width: 325px;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 8px 32px rgba(20, 26, 80, 0.11);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  border: 1px solid #f1f1f2;
+  transition: box-shadow 0.2s, transform 0.16s;
+}
+
+.car-card:hover {
+  box-shadow: 0 16px 40px 0 rgba(20, 26, 80, 0.16);
+  transform: translateY(-4px) scale(1.025);
+}
+
+.car-card-save {
+  position: absolute;
+  top: 11px;
+  right: 14px;
+  background: #fff;
+  padding: 7px 10px;
+  border-radius: 50%;
+  color: #23304a;
+  z-index: 2;
+  box-shadow: 0 1px 6px 0 #0001;
+  font-size: 14px;
+}
+
+.car-card-save i {
+  font-size: 18px;
+  color: #23304a;
+  transition: color 0.2s;
+  cursor: pointer;
+}
+
+
+.car-card-save:hover i,
+.car-card-save.active i {
+  color: #F7B916; /* Portokalli */
+}
+
+.car-card-save:hover i::before,
+.car-card-save.active i::before {
+  font-family: "Font Awesome 6 Free"; 
+  font-weight: 900; 
+  content: "\f02e"; /* unicode e ikones fa-bookmark */
+  color: #F7B916;
+}
+.car-card-img {
+  width: 100%;
+  height: 175px;
+  object-fit: cover;
+  background: #f6f8fb;
+}
+
+.car-card-body {
+  padding: 18px 20px 15px 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.car-card-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1a253a;
+  margin-bottom: 3px;
+}
+
+.car-card-desc {
+  font-size: 13.5px;
+  color: #586069;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-bottom: 18px; 
+}
+
+.car-card-properties {
+  display: flex;
+  justify-content: flex-start; 
+  gap: 44px; 
+  margin-bottom: 18px; 
+  border-top: 1px solid #e0e0e0;
+  padding-top: 16px; 
+}
+
+.property {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  min-width: 70px; 
+}
+
+.property i {
+  color: #23304a;
+  font-size: 18px;
+  margin-bottom: 6px; 
+}
+
+.property-label {
+  font-size: 13.5px;
+  color: #232b40;
+  text-align: center;
+  line-height: 1.25;
+}
+
+.car-card-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.price-main {
+  font-size: 20px;
+  color: #232b40;
+}
+
+
+.car-card-link {
+  color: #304ae1;
+  font-size: 15px;
+  font-weight: 500;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  transition: color 0.2s;
+}
+.car-card-link:hover {
+  color: #192235;
+}
+
+
+/*pjesa e paginimit*/
+.pagination {
+  width: 100%;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  margin: 38px 0 0 0;
+  padding-bottom: 24px;
+  user-select: none;
+}
+
+
+.page-btn {
+  border: none;
+  background: #fff;
+  color: #23304a;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 7px 14px;
+  border-radius: 7px;
+  box-shadow: 0 1px 4px #e8eaf3;
+  cursor: pointer;
+  transition: box-shadow 0.16s, color 0.14s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.page-btn.active,
+.page-btn:hover {
+  background: #23304a;
+  color: #fff;
+  box-shadow: 0 2px 10px #dfe2ef;
+}
+.page-btn i {
+  font-size: 18px;
+  pointer-events: none; /* Që klikimi të mos ngecë në ikonë */
+}
+
+.ellipsis {
+  color: #b2bac8;
+  font-size: 19px;
+  margin: 0 3px;
+  letter-spacing: 2px;
+}

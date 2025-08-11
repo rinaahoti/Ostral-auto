@@ -1,0 +1,3156 @@
+[
+ {
+ "id": 1,
+    "title": "Mercedes",
+    "subtitle": "4MATIC AMG Line",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "Type",
+      "Mileage": "19.776 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "4",
+      "Color": "Black",
+      "Condition": "New",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "19.776 km",
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "price": "\u20ac69.699",
+    "img": "img/mercedes.jpeg",
+    "doors": "4",
+    "color": "Black",
+    "condition": "New",
+    "make": "Mercedes"
+  },
+  {
+    "id": 2,
+    "title": "Mercedes ",
+    "subtitle": "4MATIC AMG Line",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "Type",
+      "Mileage": "186.776 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "4",
+      "Color": "Green",
+      "Condition": "New",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "186.776 km",
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "price": "\u20ac99.699",
+    "img": "img/mercedes.jpeg",
+    "doors": "4",
+    "color": "Green",
+    "condition": "New",
+    "make": "Mercedes"
+  },
+  {
+    "id": 3,
+    "title": "Audi ZKD",
+    "subtitle": "Sportback Prestige",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "201.098 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "4",
+      "Color": "Green",
+      "Condition": "Used",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "201.098 km",
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "price": "\u20ac7.309",
+    "img": "img/audi.jpg",
+    "doors": "4",
+    "color": "Green",
+    "condition": "Used",
+    "make": "Audi"
+  },
+  {
+    "id": 4,
+    "title": "Audi 7YE",
+    "subtitle": "Tech Package",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "43.692 km",
+      "Fuel Type": "Hybrid",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "5+",
+      "Color": "Green",
+      "Condition": "New",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "43.692 km",
+    "fuel": "Hybrid",
+    "transmission": "Automatic",
+    "price": "\u20ac91.490",
+    "img": "img/audi.jpg",
+    "doors": "5+",
+    "color": "Green",
+    "condition": "New",
+    "make": "Audi"
+  },
+  {
+    "id": 5,
+    "title": "Volkswagen G6W",
+    "subtitle": "R-Line DSG",
+    "desc": "Volkswagen ekonomik dhe praktik p\u00ebr p\u00ebrdorim t\u00eb p\u00ebrditsh\u00ebm.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "73.161 km",
+      "Fuel Type": "Electric",
+      "Year": "2023",
+      "Transmission": "Automatic",
+      "Doors": "5",
+      "Color": "Red",
+      "Condition": "Used",
+      "Make": "Volkswagen"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "73.161 km",
+    "fuel": "Electric",
+    "transmission": "Automatic",
+    "price": "\u20ac18.281",
+    "img": "img/volkswagen.jpg",
+    "doors": "5",
+    "color": "Red",
+    "condition": "Used",
+    "make": "Volkswagen"
+  },
+  {
+    "id": 6,
+    "title": "Audi CNJ",
+    "subtitle": "quattro S line",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "91.535 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "3",
+      "Color": "Red",
+      "Condition": "Used",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "91.535 km",
+    "fuel": "Electric",
+    "transmission": "Automatic",
+    "price": "\u20ac41.781",
+    "img": "img/audi.jpg",
+    "doors": "3",
+    "color": "Red",
+    "condition": "Used",
+    "make": "Audi"
+  },
+  {
+    "id": 7,
+    "title": "BMW NC8",
+    "subtitle": "Sport Edition",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "244.019 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "5+",
+      "Color": "Gray",
+      "Condition": "Like New",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "244.019 km",
+    "fuel": "Petrol",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac8.149",
+    "img": "img/bmw.jpeg",
+    "doors": "5+",
+    "color": "Gray",
+    "condition": "Like new",
+    "make": "BMW"
+  },
+  {
+    "id": 8,
+    "title": "BMW MR4",
+    "subtitle": "xDrive M Sport",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "253.981 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "3",
+      "Color": "White",
+      "Condition": "Like New",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "253.981 km",
+    "fuel": "Electric",
+    "transmission": "Automatic",
+    "price": "\u20ac46.631",
+    "img": "img/bmw.jpeg",
+    "doors": "3",
+    "color": "White",
+    "condition": "Like new",
+    "make": "BMW"
+  },
+  {
+    "id": 9,
+    "title": "BMW 3BK",
+    "subtitle": "Sport Edition",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "80.238 km",
+      "Fuel Type": "Hybrid",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "3",
+      "Color": "Blue",
+      "Condition": "Used",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "80.238 km",
+    "fuel": "Hybrid",
+    "transmission": "Manual",
+    "price": "\u20ac67.252",
+    "img": "img/bmw.jpeg",
+    "doors": "3",
+    "color": "Blue",
+    "condition": "Used",
+    "make": "BMW"
+  },
+  {
+    "id": 10,
+    "title": "BMW JJF",
+    "subtitle": "xDrive M Sport",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "104.920 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "5+",
+      "Color": "Silver",
+      "Condition": "Like New",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "104.920 km",
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "price": "\u20ac16.678",
+    "img": "img/bmw.jpeg",
+    "doors": "5+",
+    "color": "Silver",
+    "condition": "Like new",
+    "make": "BMW"
+  },
+  {
+    "id": 11,
+    "title": "BMW 46D",
+    "subtitle": "xDrive M Sport",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "122.608 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "5",
+      "Color": "Silver",
+      "Condition": "New",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "122.608 km",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "price": "\u20ac10.179",
+    "img": "img/bmw.jpeg",
+    "doors": "5",
+    "color": "Silver",
+    "condition": "New",
+    "make": "BMW"
+  },
+  {
+    "id": 12,
+    "title": "Audi LP6",
+    "subtitle": "quattro S line",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "70.680 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "3",
+      "Color": "White",
+      "Condition": "Used",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "70.680 km",
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "price": "\u20ac93.616",
+    "img": "img/audi.jpg",
+    "doors": "3",
+    "color": "White",
+    "condition": "Used",
+    "make": "Audi"
+  },
+  {
+    "id": 13,
+    "title": "BMW FY0",
+    "subtitle": "Sport Edition",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "46.538 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "2",
+      "Color": "White",
+      "Condition": "Used",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "46.538 km",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "price": "\u20ac22.339",
+    "img": "img/bmw.jpeg",
+    "doors": "2",
+    "color": "White",
+    "condition": "Used",
+    "make": "BMW"
+  },
+  {
+    "id": 14,
+    "title": "Mercedes VUO",
+    "subtitle": "4MATIC AMG Line",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "155.162 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "2",
+      "Color": "White",
+      "Condition": "Like New",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "155.162 km",
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "price": "\u20ac26.428",
+    "img": "img/mercedes.jpeg",
+    "doors": "2",
+    "color": "White",
+    "condition": "Like new",
+    "make": "Mercedes"
+  },
+  {
+    "id": 15,
+    "title": "Volkswagen LX5",
+    "subtitle": "R-Line DSG",
+    "desc": "Volkswagen ekonomik dhe praktik p\u00ebr p\u00ebrdorim t\u00eb p\u00ebrditsh\u00ebm.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "293.565 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "3",
+      "Color": "Black",
+      "Condition": "Used",
+      "Make": "Volkswagen"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "293.565 km",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "price": "\u20ac46.502",
+    "img": "img/volkswagen.jpg",
+    "doors": "3",
+    "color": "Black",
+    "condition": "Used",
+    "make": "Volkswagen"
+  },
+  {
+    "id": 16,
+    "title": "BMW FB0",
+    "subtitle": "xDrive M Sport",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "22.402 km",
+      "Fuel Type": "Hybrid",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "5",
+      "Color": "Silver",
+      "Condition": "Used",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "22.402 km",
+    "fuel": "Hybrid",
+    "transmission": "Manual",
+    "price": "\u20ac64.271",
+    "img": "img/bmw.jpeg",
+    "doors": "5",
+    "color": "Silver",
+    "condition": "Used",
+    "make": "BMW"
+  },
+  {
+    "id": 17,
+    "title": "Audi KQC",
+    "subtitle": "Tech Package",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "60.650 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "5+",
+      "Color": "Gray",
+      "Condition": "New",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "60.650 km",
+    "fuel": "Petrol",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac83.429",
+    "img": "img/audi.jpg",
+    "doors": "5+",
+    "color": "Gray",
+    "condition": "New",
+    "make": "Audi"
+  },
+  {
+    "id": 18,
+    "title": "Audi K6B",
+    "subtitle": "quattro S line",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "54.500 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "5+",
+      "Color": "White",
+      "Condition": "Used",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "54.500 km",
+    "fuel": "Electric",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac15.408",
+    "img": "img/audi.jpg",
+    "doors": "5+",
+    "color": "White",
+    "condition": "Used",
+    "make": "Audi"
+  },
+  {
+    "id": 19,
+    "title": "BMW WYJ",
+    "subtitle": "xDrive M Sport",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "279.240 km",
+      "Fuel Type": "Hybrid",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "2",
+      "Color": "Black",
+      "Condition": "Used",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "279.240 km",
+    "fuel": "Hybrid",
+    "transmission": "Manual",
+    "price": "\u20ac33.578",
+    "img": "img/bmw.jpeg",
+    "doors": "2",
+    "color": "Black",
+    "condition": "Used",
+    "make": "BMW"
+  },
+  {
+    "id": 20,
+    "title": "BMW GY6",
+    "subtitle": "xDrive M Sport",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "148.206 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "4",
+      "Color": "Gray",
+      "Condition": "Used",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "148.206 km",
+    "fuel": "Electric",
+    "transmission": "Automatic",
+    "price": "\u20ac77.961",
+    "img": "img/bmw.jpeg",
+    "doors": "4",
+    "color": "Gray",
+    "condition": "Used",
+    "make": "BMW"
+  },
+  {
+    "id": 21,
+    "title": "Volkswagen IDZ",
+    "subtitle": "Highline TDI",
+    "desc": "Volkswagen ekonomik dhe praktik p\u00ebr p\u00ebrdorim t\u00eb p\u00ebrditsh\u00ebm.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "108.192 km",
+      "Fuel Type": "Hybrid",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "2",
+      "Color": "Green",
+      "Condition": "Like New",
+      "Make": "Volkswagen"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "108.192 km",
+    "fuel": "Hybrid",
+    "transmission": "Automatic",
+    "price": "\u20ac21.913",
+    "img": "img/volkswagen.jpg",
+    "doors": "2",
+    "color": "Green",
+    "condition": "Like new",
+    "make": "Volkswagen"
+  },
+  {
+    "id": 22,
+    "title": "Audi 0V2",
+    "subtitle": "Tech Package",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "51.998 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "5",
+      "Color": "Silver",
+      "Condition": "New",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "51.998 km",
+    "fuel": "Electric",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac53.978",
+    "img": "img/audi.jpg",
+    "doors": "5",
+    "color": "Silver",
+    "condition": "New",
+    "make": "Audi"
+  },
+  {
+    "id": 23,
+    "title": "BMW 4HB",
+    "subtitle": "Luxury Line",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "93.222 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "5+",
+      "Color": "Blue",
+      "Condition": "New",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "93.222 km",
+    "fuel": "Electric",
+    "transmission": "Manual",
+    "price": "\u20ac10.293",
+    "img": "img/bmw.jpeg",
+    "doors": "5+",
+    "color": "Blue",
+    "condition": "New",
+    "make": "BMW"
+  },
+  {
+    "id": 24,
+    "title": "BMW 3CV",
+    "subtitle": "Luxury Line",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "174.326 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "5",
+      "Color": "Gray",
+      "Condition": "New",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "174.326 km",
+    "fuel": "Electric",
+    "transmission": "Automatic",
+    "price": "\u20ac23.727",
+    "img": "img/bmw.jpeg",
+    "doors": "5",
+    "color": "Gray",
+    "condition": "New",
+    "make": "BMW"
+  },
+  {
+    "id": 25,
+    "title": "Mercedes KW1",
+    "subtitle": "4MATIC AMG Line",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "97.366 km",
+      "Fuel Type": "Hybrid",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "2",
+      "Color": "Blue",
+      "Condition": "Like New",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "97.366 km",
+    "fuel": "Hybrid",
+    "transmission": "Manual",
+    "price": "\u20ac79.146",
+    "img": "img/mercedes.jpeg",
+    "doors": "2",
+    "color": "Blue",
+    "condition": "Like new",
+    "make": "Mercedes"
+  },
+  {
+    "id": 26,
+    "title": "BMW 4XE",
+    "subtitle": "xDrive M Sport",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "63.097 km",
+      "Fuel Type": "Hybrid",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "3",
+      "Color": "Red",
+      "Condition": "New",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "63.097 km",
+    "fuel": "Hybrid",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac86.690",
+    "img": "img/bmw.jpeg",
+    "doors": "3",
+    "color": "Red",
+    "condition": "New",
+    "make": "BMW"
+  },
+  {
+    "id": 27,
+    "title": "Volkswagen 5WY",
+    "subtitle": "Comfortline Plus",
+    "desc": "Volkswagen ekonomik dhe praktik p\u00ebr p\u00ebrdorim t\u00eb p\u00ebrditsh\u00ebm.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "70.201 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "4",
+      "Color": "Green",
+      "Condition": "Used",
+      "Make": "Volkswagen"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "70.201 km",
+    "fuel": "Diesel",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac83.959",
+    "img": "img/volkswagen.jpg",
+    "doors": "4",
+    "color": "Green",
+    "condition": "Used",
+    "make": "Volkswagen"
+  },
+  {
+    "id": 28,
+    "title": "Mercedes HVR",
+    "subtitle": "4MATIC AMG Line",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "216.952 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "5+",
+      "Color": "Black",
+      "Condition": "Like New",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "216.952 km",
+    "fuel": "Electric",
+    "transmission": "Automatic",
+    "price": "\u20ac35.347",
+    "img": "img/mercedes.jpeg",
+    "doors": "5+",
+    "color": "Black",
+    "condition": "Like new",
+    "make": "Mercedes"
+  },
+  {
+    "id": 29,
+    "title": "Mercedes 8HV",
+    "subtitle": "Avantgarde Edition",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "282.307 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "4",
+      "Color": "Silver",
+      "Condition": "New",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "282.307 km",
+    "fuel": "Electric",
+    "transmission": "Manual",
+    "price": "\u20ac81.311",
+    "img": "img/mercedes.jpeg",
+    "doors": "4",
+    "color": "Silver",
+    "condition": "New",
+    "make": "Mercedes"
+  },
+  {
+    "id": 30,
+    "title": "BMW GIC",
+    "subtitle": "Sport Edition",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "89.791 km",
+      "Fuel Type": "Hybrid",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "5",
+      "Color": "Gray",
+      "Condition": "Used",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "89.791 km",
+    "fuel": "Hybrid",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac5.344",
+    "img": "img/bmw.jpeg",
+    "doors": "5",
+    "color": "Gray",
+    "condition": "Used",
+    "make": "BMW"
+  },
+  {
+    "id": 31,
+    "title": "Audi H5F",
+    "subtitle": "Sportback Prestige",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "25.590 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "5",
+      "Color": "Silver",
+      "Condition": "Like New",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "25.590 km",
+    "fuel": "Petrol",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac64.212",
+    "img": "img/audi.jpg",
+    "doors": "5",
+    "color": "Silver",
+    "condition": "Like new",
+    "make": "Audi"
+  },
+  {
+    "id": 32,
+    "title": "BMW 52K",
+    "subtitle": "Sport Edition",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "276.624 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "5+",
+      "Color": "Gray",
+      "Condition": "Used",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "276.624 km",
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "price": "\u20ac94.929",
+    "img": "img/bmw.jpeg",
+    "doors": "5+",
+    "color": "Gray",
+    "condition": "Used",
+    "make": "BMW"
+  },
+  {
+    "id": 33,
+    "title": "Volkswagen N03",
+    "subtitle": "R-Line DSG",
+    "desc": "Volkswagen ekonomik dhe praktik p\u00ebr p\u00ebrdorim t\u00eb p\u00ebrditsh\u00ebm.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "68.983 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "5+",
+      "Color": "Silver",
+      "Condition": "Used",
+      "Make": "Volkswagen"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "68.983 km",
+    "fuel": "Electric",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac57.895",
+    "img": "img/volkswagen.jpg",
+    "doors": "5+",
+    "color": "Silver",
+    "condition": "Used",
+    "make": "Volkswagen"
+  },
+  {
+    "id": 34,
+    "title": "BMW ZPZ",
+    "subtitle": "Luxury Line",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "193.870 km",
+      "Fuel Type": "Hybrid",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "5",
+      "Color": "Black",
+      "Condition": "New",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "193.870 km",
+    "fuel": "Hybrid",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac51.258",
+    "img": "img/bmw.jpeg",
+    "doors": "5",
+    "color": "Black",
+    "condition": "New",
+    "make": "BMW"
+  },
+  {
+    "id": 35,
+    "title": "Mercedes GNK",
+    "subtitle": "Premium Plus",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "189.573 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "2",
+      "Color": "Green",
+      "Condition": "Like New",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "189.573 km",
+    "fuel": "Diesel",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac27.213",
+    "img": "img/mercedes.jpeg",
+    "doors": "2",
+    "color": "Green",
+    "condition": "Like new",
+    "make": "Mercedes"
+  },
+  {
+    "id": 36,
+    "title": "Mercedes GUM",
+    "subtitle": "4MATIC AMG Line",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "297.110 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "3",
+      "Color": "Green",
+      "Condition": "New",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "297.110 km",
+    "fuel": "Electric",
+    "transmission": "Manual",
+    "price": "\u20ac62.388",
+    "img": "img/mercedes.jpeg",
+    "doors": "3",
+    "color": "Green",
+    "condition": "New",
+    "make": "Mercedes"
+  },
+  {
+    "id": 37,
+    "title": "Mercedes Q4U",
+    "subtitle": "4MATIC AMG Line",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "145.225 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "4",
+      "Color": "Green",
+      "Condition": "Like New",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "145.225 km",
+    "fuel": "Electric",
+    "transmission": "Automatic",
+    "price": "\u20ac94.540",
+    "img": "img/mercedes.jpeg",
+    "doors": "4",
+    "color": "Green",
+    "condition": "Like new",
+    "make": "Mercedes"
+  },
+  {
+    "id": 38,
+    "title": "Mercedes HYS",
+    "subtitle": "Premium Plus",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "269.979 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "5",
+      "Color": "White",
+      "Condition": "New",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "269.979 km",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "price": "\u20ac40.023",
+    "img": "img/mercedes.jpeg",
+    "doors": "5",
+    "color": "White",
+    "condition": "New",
+    "make": "Mercedes"
+  },
+  {
+    "id": 39,
+    "title": "Mercedes VL1",
+    "subtitle": "4MATIC AMG Line",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "198.663 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "3",
+      "Color": "Silver",
+      "Condition": "New",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "198.663 km",
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "price": "\u20ac53.088",
+    "img": "img/mercedes.jpeg",
+    "doors": "3",
+    "color": "Silver",
+    "condition": "New",
+    "make": "Mercedes"
+  },
+  {
+    "id": 40,
+    "title": "Audi GDX",
+    "subtitle": "Sportback Prestige",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "271.336 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "3",
+      "Color": "Black",
+      "Condition": "Used",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "271.336 km",
+    "fuel": "Electric",
+    "transmission": "Automatic",
+    "price": "\u20ac84.266",
+    "img": "img/audi.jpg",
+    "doors": "3",
+    "color": "Black",
+    "condition": "Used",
+    "make": "Audi"
+  },
+  {
+    "id": 41,
+    "title": "Mercedes JUR",
+    "subtitle": "Premium Plus",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "241.746 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "5+",
+      "Color": "Gray",
+      "Condition": "Like New",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "241.746 km",
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "price": "\u20ac87.910",
+    "img": "img/mercedes.jpeg",
+    "doors": "5+",
+    "color": "Gray",
+    "condition": "Like new",
+    "make": "Mercedes"
+  },
+  {
+    "id": 42,
+    "title": "BMW TMA",
+    "subtitle": "Luxury Line",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "37.287 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "5+",
+      "Color": "Green",
+      "Condition": "Like New",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "37.287 km",
+    "fuel": "Petrol",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac46.104",
+    "img": "img/bmw.jpeg",
+    "doors": "5+",
+    "color": "Green",
+    "condition": "Like new",
+    "make": "BMW"
+  },
+  {
+    "id": 43,
+    "title": "Audi THR",
+    "subtitle": "Tech Package",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "112.502 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "5+",
+      "Color": "Red",
+      "Condition": "Used",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "112.502 km",
+    "fuel": "Electric",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac70.171",
+    "img": "img/audi.jpg",
+    "doors": "5+",
+    "color": "Red",
+    "condition": "Used",
+    "make": "Audi"
+  },
+  {
+    "id": 44,
+    "title": "Volkswagen BNC",
+    "subtitle": "Highline TDI",
+    "desc": "Volkswagen ekonomik dhe praktik p\u00ebr p\u00ebrdorim t\u00eb p\u00ebrditsh\u00ebm.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "109.304 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "2",
+      "Color": "Red",
+      "Condition": "Like New",
+      "Make": "Volkswagen"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "109.304 km",
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "price": "\u20ac31.040",
+    "img": "img/volkswagen.jpg",
+    "doors": "2",
+    "color": "Red",
+    "condition": "Like new",
+    "make": "Volkswagen"
+  },
+  {
+    "id": 45,
+    "title": "Mercedes AXA",
+    "subtitle": "Avantgarde Edition",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "256.506 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "3",
+      "Color": "Blue",
+      "Condition": "Like New",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "256.506 km",
+    "fuel": "Diesel",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac61.337",
+    "img": "img/mercedes.jpeg",
+    "doors": "3",
+    "color": "Blue",
+    "condition": "Like new",
+    "make": "Mercedes"
+  },
+  {
+    "id": 46,
+    "title": "BMW FZ8",
+    "subtitle": "Luxury Line",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "290.348 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "5",
+      "Color": "Red",
+      "Condition": "Like New",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "290.348 km",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "price": "\u20ac34.360",
+    "img": "img/bmw.jpeg",
+    "doors": "5",
+    "color": "Red",
+    "condition": "Like new",
+    "make": "BMW"
+  },
+  {
+    "id": 47,
+    "title": "BMW M37",
+    "subtitle": "Sport Edition",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "268.760 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "2",
+      "Color": "Gray",
+      "Condition": "Used",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "268.760 km",
+    "fuel": "Electric",
+    "transmission": "Manual",
+    "price": "\u20ac75.635",
+    "img": "img/bmw.jpeg",
+    "doors": "2",
+    "color": "Gray",
+    "condition": "Used",
+    "make": "BMW"
+  },
+  {
+    "id": 48,
+    "title": "Mercedes LYX",
+    "subtitle": "4MATIC AMG Line",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "252.735 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "3",
+      "Color": "Red",
+      "Condition": "Used",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "252.735 km",
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "price": "\u20ac36.340",
+    "img": "img/mercedes.jpeg",
+    "doors": "3",
+    "color": "Red",
+    "condition": "Used",
+    "make": "Mercedes"
+  },
+  {
+    "id": 49,
+    "title": "Audi D76",
+    "subtitle": "quattro S line",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "241.887 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "3",
+      "Color": "Black",
+      "Condition": "Used",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "241.887 km",
+    "fuel": "Electric",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac48.200",
+    "img": "img/audi.jpg",
+    "doors": "3",
+    "color": "Black",
+    "condition": "Used",
+    "make": "Audi"
+  },
+  {
+    "id": 50,
+    "title": "Audi RFT",
+    "subtitle": "Sportback Prestige",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "299.489 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "4",
+      "Color": "Black",
+      "Condition": "Like New",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "299.489 km",
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "price": "\u20ac38.270",
+    "img": "img/audi.jpg",
+    "doors": "4",
+    "color": "Black",
+    "condition": "Like new",
+    "make": "Audi"
+  },
+  {
+    "id": 51,
+    "title": "Mercedes 2MY",
+    "subtitle": "Premium Plus",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "56.860 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "4",
+      "Color": "White",
+      "Condition": "Like New",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "56.860 km",
+    "fuel": "Electric",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac17.226",
+    "img": "img/mercedes.jpeg",
+    "doors": "4",
+    "color": "White",
+    "condition": "Like new",
+    "make": "Mercedes"
+  },
+  {
+    "id": 52,
+    "title": "Audi HYW",
+    "subtitle": "Tech Package",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "51.403 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "4",
+      "Color": "White",
+      "Condition": "Used",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "51.403 km",
+    "fuel": "Electric",
+    "transmission": "Manual",
+    "price": "\u20ac67.839",
+    "img": "img/audi.jpg",
+    "doors": "4",
+    "color": "White",
+    "condition": "Used",
+    "make": "Audi"
+  },
+  {
+    "id": 53,
+    "title": "Audi 9B4",
+    "subtitle": "Sportback Prestige",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "124.725 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "5",
+      "Color": "White",
+      "Condition": "New",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "124.725 km",
+    "fuel": "Electric",
+    "transmission": "Automatic",
+    "price": "\u20ac12.092",
+    "img": "img/audi.jpg",
+    "doors": "5",
+    "color": "White",
+    "condition": "New",
+    "make": "Audi"
+  },
+  {
+    "id": 54,
+    "title": "BMW 41Q",
+    "subtitle": "Sport Edition",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "215.155 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "5",
+      "Color": "Blue",
+      "Condition": "Used",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "215.155 km",
+    "fuel": "Electric",
+    "transmission": "Manual",
+    "price": "\u20ac21.606",
+    "img": "img/bmw.jpeg",
+    "doors": "5",
+    "color": "Blue",
+    "condition": "Used",
+    "make": "BMW"
+  },
+  {
+    "id": 55,
+    "title": "Audi 1DR",
+    "subtitle": "Sportback Prestige",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "57.722 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "5+",
+      "Color": "Green",
+      "Condition": "New",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "57.722 km",
+    "fuel": "Petrol",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac41.278",
+    "img": "img/audi.jpg",
+    "doors": "5+",
+    "color": "Green",
+    "condition": "New",
+    "make": "Audi"
+  },
+  {
+    "id": 56,
+    "title": "Audi L82",
+    "subtitle": "quattro S line",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "63.036 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "5+",
+      "Color": "Silver",
+      "Condition": "Like New",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "63.036 km",
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "price": "\u20ac48.096",
+    "img": "img/audi.jpg",
+    "doors": "5+",
+    "color": "Silver",
+    "condition": "Like new",
+    "make": "Audi"
+  },
+  {
+    "id": 57,
+    "title": "BMW S6E",
+    "subtitle": "xDrive M Sport",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "298.884 km",
+      "Fuel Type": "Hybrid",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "3",
+      "Color": "Green",
+      "Condition": "Like New",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "298.884 km",
+    "fuel": "Hybrid",
+    "transmission": "Automatic",
+    "price": "\u20ac18.871",
+    "img": "img/bmw.jpeg",
+    "doors": "3",
+    "color": "Green",
+    "condition": "Like new",
+    "make": "BMW"
+  },
+  {
+    "id": 58,
+    "title": "Volkswagen 20Z",
+    "subtitle": "Highline TDI",
+    "desc": "Volkswagen ekonomik dhe praktik p\u00ebr p\u00ebrdorim t\u00eb p\u00ebrditsh\u00ebm.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "112.374 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "5",
+      "Color": "Black",
+      "Condition": "Like New",
+      "Make": "Volkswagen"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "112.374 km",
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "price": "\u20ac51.710",
+    "img": "img/volkswagen.jpg",
+    "doors": "5",
+    "color": "Black",
+    "condition": "Like new",
+    "make": "Volkswagen"
+  },
+  {
+    "id": 59,
+    "title": "BMW 302",
+    "subtitle": "xDrive M Sport",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "283.280 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "3",
+      "Color": "White",
+      "Condition": "Used",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "283.280 km",
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "price": "\u20ac61.486",
+    "img": "img/bmw.jpeg",
+    "doors": "3",
+    "color": "White",
+    "condition": "Used",
+    "make": "BMW"
+  },
+  {
+    "id": 60,
+    "title": "Volkswagen RAZ",
+    "subtitle": "R-Line DSG",
+    "desc": "Volkswagen ekonomik dhe praktik p\u00ebr p\u00ebrdorim t\u00eb p\u00ebrditsh\u00ebm.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "41.153 km",
+      "Fuel Type": "Electric",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "2",
+      "Color": "Blue",
+      "Condition": "Like New",
+      "Make": "Volkswagen"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "41.153 km",
+    "fuel": "Electric",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac35.661",
+    "img": "img/volkswagen.jpg",
+    "doors": "2",
+    "color": "Blue",
+    "condition": "Like new",
+    "make": "Volkswagen"
+  },
+  {
+    "id": 61,
+    "title": "Mercedes YI7",
+    "subtitle": "4MATIC AMG Line",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "183.898 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "2",
+      "Color": "White",
+      "Condition": "Used",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "183.898 km",
+    "fuel": "Diesel",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac70.548",
+    "img": "img/mercedes.jpeg",
+    "doors": "2",
+    "color": "White",
+    "condition": "Used",
+    "make": "Mercedes"
+  },
+  {
+    "id": 62,
+    "title": "Audi 4QQ",
+    "subtitle": "Sportback Prestige",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "178.816 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "5+",
+      "Color": "Black",
+      "Condition": "New",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "178.816 km",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "price": "\u20ac80.285",
+    "img": "img/audi.jpg",
+    "doors": "5+",
+    "color": "Black",
+    "condition": "New",
+    "make": "Audi"
+  },
+  {
+    "id": 63,
+    "title": "Audi 1MB",
+    "subtitle": "Sportback Prestige",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "220.522 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "4",
+      "Color": "Green",
+      "Condition": "Like New",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "220.522 km",
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "price": "\u20ac90.865",
+    "img": "img/audi.jpg",
+    "doors": "4",
+    "color": "Green",
+    "condition": "Like new",
+    "make": "Audi"
+  },
+  {
+    "id": 64,
+    "title": "BMW YYK",
+    "subtitle": "xDrive M Sport",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "181.455 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "2",
+      "Color": "Black",
+      "Condition": "Used",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "181.455 km",
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "price": "\u20ac48.087",
+    "img": "img/bmw.jpeg",
+    "doors": "2",
+    "color": "Black",
+    "condition": "Used",
+    "make": "BMW"
+  },
+  {
+    "id": 65,
+    "title": "Audi YMA",
+    "subtitle": "Tech Package",
+    "desc": "Audi elegant me opsione moderne dhe histori t\u00eb past\u00ebr servisi.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "140.576 km",
+      "Fuel Type": "Petrol",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "5",
+      "Color": "Blue",
+      "Condition": "Like New",
+      "Make": "Audi"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "140.576 km",
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "price": "\u20ac88.894",
+    "img": "img/audi.jpg",
+    "doors": "5",
+    "color": "Blue",
+    "condition": "Like new",
+    "make": "Audi"
+  },
+  {
+    "id": 66,
+    "title": "Mercedes 1MZ",
+    "subtitle": "4MATIC AMG Line",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "190.986 km",
+      "Fuel Type": "Hybrid",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "4",
+      "Color": "Black",
+      "Condition": "Used",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "190.986 km",
+    "fuel": "Hybrid",
+    "transmission": "Automatic",
+    "price": "\u20ac88.092",
+    "img": "img/mercedes.jpeg",
+    "doors": "4",
+    "color": "Black",
+    "condition": "Used",
+    "make": "Mercedes"
+  },
+  {
+    "id": 67,
+    "title": "BMW 4WP",
+    "subtitle": "Sport Edition",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "210.257 km",
+      "Fuel Type": "Hybrid",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "2",
+      "Color": "White",
+      "Condition": "New",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "210.257 km",
+    "fuel": "Hybrid",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac74.281",
+    "img": "img/bmw.jpeg",
+    "doors": "2",
+    "color": "White",
+    "condition": "New",
+    "make": "BMW"
+  },
+  {
+    "id": 68,
+    "title": "Volkswagen GF7",
+    "subtitle": "R-Line DSG",
+    "desc": "Volkswagen ekonomik dhe praktik p\u00ebr p\u00ebrdorim t\u00eb p\u00ebrditsh\u00ebm.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "287.017 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Automatic",
+      "Doors": "2",
+      "Color": "Gray",
+      "Condition": "Like New",
+      "Make": "Volkswagen"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "287.017 km",
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "price": "\u20ac33.808",
+    "img": "img/volkswagen.jpg",
+    "doors": "2",
+    "color": "Gray",
+    "condition": "Like new",
+    "make": "Volkswagen"
+  },
+  {
+    "id": 69,
+    "title": "Mercedes D8U",
+    "subtitle": "Avantgarde Edition",
+    "desc": "Mercedes i mbajtur me kujdes, pa asnj\u00eb defekt dhe me pajisje luksoze.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "289.249 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Semi-Auto",
+      "Doors": "5+",
+      "Color": "Black",
+      "Condition": "New",
+      "Make": "Mercedes"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "289.249 km",
+    "fuel": "Diesel",
+    "transmission": "Semi-Auto",
+    "price": "\u20ac11.495",
+    "img": "img/mercedes.jpeg",
+    "doors": "5+",
+    "color": "Black",
+    "condition": "New",
+    "make": "Mercedes"
+  },
+  {
+    "id": 70,
+    "title": "BMW OX8",
+    "subtitle": "xDrive M Sport",
+    "desc": "BMW n\u00eb gjendje t\u00eb shk\u00eblqyer, i ardhur nga Gjermania me servis t\u00eb rregullt.",
+    "features": {
+      "interior": [
+        "Air Conditioner",
+        "Leather Seats"
+      ],
+      "exterior": [
+        "Fog Lights Front",
+        "Sun Roof"
+      ],
+      "safety": [
+        "Brake Assist",
+        "Driver Air Bag"
+      ],
+      "comfort": [
+        "Power Steering",
+        "Trunk Light"
+      ]
+    },
+    "overview": {
+      "Body": "TYPE",
+      "Mileage": "248.883 km",
+      "Fuel Type": "Diesel",
+      "Year": "2019",
+      "Transmission": "Manual",
+      "Doors": "5",
+      "Color": "Gray",
+      "Condition": "New",
+      "Make": "BMW"
+    },
+    "saving": "\u20ac7,0",
+    "mileage": "248.883 km",
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "price": "\u20ac20.534",
+    "img": "img/bmw.jpeg",
+    "doors": "5",
+    "color": "Gray",
+    "condition": "New",
+    "make": "BMW"
+  }
+]

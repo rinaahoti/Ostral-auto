@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Profile</title>
+  <link rel="stylesheet" href="css/dashboard.css" />
+  <link rel="stylesheet" href="css/my-profile.css" />
+
+   <!-- font-awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css">
+  <!-- font awesome -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/regular.min.css">
+</head>
+<body>
+  <div class="dashboard-container">
+    <aside class="sidebar">
+      <h2 class="logo">BOXCARS</h2>
+      <ul class="sidebar-menu">
+    <li><a href="dashboard.html"><i class="fa-solid fa-house-user"></i> Dashboard</a></li>
+    <li><a href="my-listings.html"><i class="fa-solid fa-list"></i> My Listings</a></li>
+    <li><a href="add-listing.html"><i class="fa-solid fa-square-plus"></i> Add Listings</a></li>
+    <li><a href="my-favorites.html"><i class="fa-regular fa-bookmark"></i> My Favorites</a></li>
+    <li><a href="saved-search.html"><i class="fa-solid fa-magnifying-glass"></i> Saved Search</a></li>
+    <li><a href="messages.html"><i class="fa-solid fa-inbox"></i> Messages</a></li>
+    <li><a href="my-profile.html" class="active"><i class="fa-regular fa-user"></i> My Profile</a></li>
+    <li><a href="login.html" id="logout"><i class="fa-solid fa-arrow-right-from-bracket"></i> Logout</a></li>
+  </ul>
+    </aside>
+
+
+    <div class="main-section">
+      <h1>My Profile</h1>
+
+      <div class="profile-box">
+        <div class="profile-header">
+          <div>
+            <img src="img/avatar.png" alt="Avatar" id="avatarImage" class="profile-avatar" />
+            <input type="file" id="avatarInput" class="avatar-upload" accept="image/*" />
+          </div>
+          <div class="profile-meta">
+            <h2>Michael Rodriguez</h2>
+            <p>Product Designer</p>
+            <p class="location">Los Angeles, California, USA</p>
+          </div>
+          <button class="edit-btn">Edit ✏️</button>
+        </div>
+      </div>
+
+      <div class="info-box">
+        <div class="box-header">
+          <h3>Personal Information</h3>
+          <button class="edit-btn">Edit ✏️</button>
+        </div>
+        <div class="info-grid">
+          <div><strong>First Name</strong><p>Michael</p></div>
+          <div><strong>Last Name</strong><p>Rodriguez</p></div>
+          <div><strong>Email address</strong><p>Rodriguez@gmail.com</p></div>
+          <div><strong>Phone</strong><p>(213) 555-1234</p></div>
+          <div class="full-width"><strong>Bio</strong><p>Product Designer</p></div>
+        </div>
+      </div>
+
+      <div class="info-box">
+        <div class="box-header">
+          <h3>Address</h3>
+          <button class="edit-btn">Edit ✏️</button>
+        </div>
+        <div class="info-grid">
+          <div><strong>Country</strong><p>United States of America</p></div>
+          <div><strong>City / State</strong><p>California, USA</p></div>
+          <div><strong>Postal Code</strong><p>ERT 62574</p></div>
+          <div><strong>TAX ID</strong><p>AS56417896</p></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="js/my-profile.js"></script>
+</body>
+</html>

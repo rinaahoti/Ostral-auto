@@ -1,0 +1,405 @@
+body {
+  background: #f8f9fb;
+  font-family: 'Inter', Arial, sans-serif;
+  color: #151a2e;
+  margin: 0;
+}
+
+header {
+  background: #10192e;
+  padding: 0;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.logo {
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: 2px;
+  color: #fff;
+}
+
+.search-bar input {
+  padding: 10px 18px;
+  border-radius: 16px;
+  border: none;
+  outline: none;
+  width: 220px;
+}
+
+.main-menu {
+  display: flex;
+  gap: 26px;
+  align-items: center;
+  list-style: none;
+  color: #fff;
+  margin: 0;
+}
+
+.main-menu li {
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.btn-outline {
+  padding: 8px 18px;
+  background: none;
+  border: 1.5px solid #cacaca;
+  color: #fff;
+  border-radius: 24px;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.btn-outline:hover {
+  background: #232e54;
+}
+
+main {
+  padding: 48px 0;
+}
+
+.container {
+  display: flex;
+  gap: 32px;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.main-col {
+  flex: 1.5;
+  min-width: 0;
+}
+
+.side-col {
+  flex: 1;
+  min-width: 320px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+
+.breadcrumb {
+  font-size: 1rem;
+  color: #6a6e77;
+  margin-bottom: 16px;
+}
+.breadcrumb a { color: #2a4df0; text-decoration: none; }
+.breadcrumb span { margin: 0 7px; }
+
+h1 {
+  margin: 0;
+  font-size: 2.3rem;
+  font-weight: 700;
+  color: #1a2038;
+}
+
+.subtitle {
+  color: #6a6e77;
+  margin-bottom: 22px;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 14px;
+  margin-bottom: 22px;
+}
+
+.action-buttons button {
+  background: #fff;
+  color: #151a2e;
+  border: 1px solid #e5e7ee;
+  padding: 10px 16px;
+  border-radius: 18px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+.action-buttons button:hover {
+  background: #f3f5f9;
+}
+
+.car-image-gallery {
+  position: relative;
+  margin-bottom: 18px;
+  background: #fff;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 2px 16px rgba(12,18,38,0.06);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 340px;
+}
+
+.car-image-gallery img {
+  width: 100%;   /*widthi 96% test*/
+  border-radius: 16px;
+  display: block;
+  object-fit: cover;
+  height: 340px;
+}
+
+.car-image-gallery .arrow {
+  position: absolute;
+  top: 50%;
+  font-size: 2rem;
+  width: 34px;
+  height: 34px;
+  background: rgba(130,130,134, 0.18);
+  color: #2a445c;
+  border-radius: 50%;
+  line-height: 34px;
+  text-align: center;
+  cursor: pointer;
+  z-index: 1;
+  user-select: none;
+}
+.car-image-gallery .arrow.left { left: 12px; }
+.car-image-gallery .arrow.right { right: 12px; }
+.car-image-gallery .arrow:hover { background: #e5e7ee; }
+
+.gallery-actions {
+  position: absolute;
+  left: 18px;
+  bottom: 16px;
+  display: flex;
+  gap: 12px;
+}
+
+.gallery-actions button {
+  background: #fff;
+  border: none;
+  border-radius: 16px;
+  color: #232e54;
+  font-weight: 500;
+  font-size: 0.95rem;
+  padding: 6px 15px;
+  box-shadow: 0px 2px 8px rgba(36,54,116,0.04);
+  cursor: pointer;
+  outline: none;
+}
+
+.box {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 2px 16px rgba(12,18,38,.08);
+  padding: 26px 24px 24px;
+  margin-bottom: 26px;
+}
+
+.desc-box {
+  margin-top: 22px;
+}
+
+h2 {
+  font-size: 1.28rem;
+  font-weight: 700;
+  margin: 0 0 14px;
+}
+
+.features-box {
+  margin-top:16px;
+}
+.features-list {
+  display: flex;
+  gap: 60px;
+  flex-wrap: wrap;
+}
+.features-list strong {
+  font-size: 1rem;
+  display: block;
+  margin-bottom: 6px;
+}
+.features-list ul {
+  margin: 0;
+  padding-left: 24px;
+  font-size: 14px;
+}
+.features-list li {
+  margin-bottom: 6px;
+  position: relative;
+}
+
+/*qmimi -our price*/
+.price-box {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 80px;
+}
+
+.price-main {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 6px 0 4px 0;
+}
+
+.txt-xs {
+  font-size: 16px;
+  font-weight: 500;
+  color: #6c7c8d;
+}
+.txt-small {
+  font-size: .95rem;
+  color: #6a6e77;
+}
+.gray { color: #85898f; }
+
+/* pjesa  e butona offer edhe add to cart */
+.btn-group {
+  margin-top: 16px;
+  display: flex;
+  gap: 10px;
+}
+
+.btn-main,
+.btn-cart {
+  flex: 1;  
+  width: 220px;
+  background: #2a4df0;
+  color: #fff;
+  padding: 12px 0;
+  font-size: 16px;
+  border: none;
+  border-radius: 12px;
+  font-weight: 600;
+  box-shadow: 0 1.5px 5px rgba(40,53,143,0.06);
+  cursor: pointer;
+  line-height: 1.1;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-main:hover,
+.btn-cart:hover {
+  background: #183fc5;
+}
+/* pjesa  e butona offer edhe add to cart */
+
+
+
+
+
+/* pjesa e butonave message daler edhe chat via whatsapp */
+.w100{  
+  width: 100%;
+  margin-top: 15px;
+  background: #2a4df0;
+  color: #fff;
+  padding: 12px 0;
+  font-size: 16px;
+  border: none;
+  border-radius: 12px;
+  font-weight: 600;
+  box-shadow: 0 1.5px 5px rgba(40,53,143,0.06);
+  cursor: pointer;
+  line-height: 1.1;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-wa {
+  margin-top: 8px;
+  width: 100%;
+  background: #e6fcf2;
+  color: #18a96b;
+  border: 1px solid #15cd99;
+  padding: 12px 0;
+  border-radius: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  font-size:  16px;
+}
+
+
+.car-overview {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 2px 16px rgba(12,18,38,.08);
+  padding: 22px 22px 16px;
+  margin-bottom: 24px;
+}
+
+.car-overview h2 {
+  font-size: 1.09rem;
+  font-weight: 700;
+  color: #232323;
+  margin: 0 0 10px 0;
+}
+
+.car-overview table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 7px;
+  font-size: 0.98rem;
+}
+.car-overview tr {
+  background: #fff;
+  border-radius: 8px;
+}
+
+.car-overview td {
+  padding: 8px 14px;
+  color: #49506b;
+  vertical-align: middle;
+}
+
+.car-overview td:first-child {
+  font-weight: 500;
+  color: #181c39;
+  width: 56%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.car-overview td:last-child {
+  text-align: right;
+  font-weight: 400;
+  color: #1a2038;
+}
+
+.icon-list {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 27px;
+  height: 27px;
+  border-radius: 99px;
+  border: 1.5px solid #e0e4ee;
+  background: #fafbfc;
+  color: #3384ff;
+  margin-right: 8px;
+  font-size: 1.09rem;
+}
+
+.icon-list i {
+  font-size: 1.21rem;
+  line-height: 1;
+  color: #3384ff;
+}
+
+@media (max-width: 600px) {
+  .car-overview, .car-overview table, .car-overview td {
+      font-size: 0.94rem;
+      padding: 6px 7px;
+  }
+  .car-overview td:first-child {
+    gap: 7px;
+  }
+}
+
+/* pjesa e butonave message daler edhe chat via whatsapp */

@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/carsforsale.css">
+    <link rel="stylesheet" href="css/car-listing-section.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Inter:400,500,600,700,800&display=swap" rel="stylesheet">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- Flat icon normal te rregullta-->
+  <link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css">
+  <!--Flact Icon per thin line -->
+  <link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-thin-line/css/uicons-thin-line.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+</head>
+<body>
+<header>
+  <nav class="navbar">
+    <div class="logo">BOXCARS</div>
+    <div class="search-bar">
+  
+      <input type="text" placeholder="Search Cars eg. Audi Q7">
+    </div>
+    <ul class="main-menu">
+      <li><a href="index.html">HOME</a></li>
+      <li><a href="#">VEHICLES</a></li>
+      <li><a href="#">BLOG</a></li>
+      <li><a href="#">PAGES</a></li>
+      <li><a href="#">CONTACT</a></li>
+      <li><a href="#">SIGN IN</a></li>
+    </ul>
+  </nav>
+</header>
+
+    <section class="second-section">
+      <div class="main-heading">
+        <h3 class="cars-h3"><a href="index.html"><span class="active">Home</span></a>   <!--/ <a href="car-details.html">Cars for sale</h3></a> -->
+        <h1 class="cars-h1">New and Used Cars for Sale</h1>
+        </div>
+      </section>
+
+
+    <aside class="filter-sidebar">
+    <h3>Filter Cars</h3>
+
+    <div class="filter-group">
+        <label for="make" class="label-make">Make:</label>
+        <select id="make" name="make">
+        <option value="">All Makes</option>
+        <option value="BMW">BMW</option>
+        <option value="Audi">Audi</option>
+        <option value="Mercedes">Mercedes</option>
+        <option value="Volkswagen">Volkswagen</option>
+        </select>
+    </div>
+
+
+<div class="custom-year-wrapper">
+  <div class="year-dropdown">
+    <label>Min year</label>
+    <div class="dropdown" id="min-dropdown">
+      <div class="selected">2004</div>
+      <i class="fa-solid fa-angle-down arrow"></i>
+      <ul class="options">
+        <!-- Vitet prej 2000 deri 2025 -->
+        <li>2000</li>
+        <li>2001</li>
+        <li>2002</li>
+        <li>2003</li>
+        <li>2004</li>
+        <li>2005</li>
+        <li>2006</li>
+        <li>2007</li>
+        <li>2008</li>
+        <li>2009</li>
+        <li>2010</li>
+        <li>2011</li>
+        <li>2012</li>
+        <li>2013</li>
+        <li>2014</li>
+        <li>2015</li>
+        <li>2016</li>
+        <li>2017</li>
+        <li>2018</li>
+        <li>2019</li>
+        <li>2020</li>
+        <li>2021</li>
+        <li>2022</li>
+        <li>2023</li>
+        <li>2024</li>
+        <li>2025</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="year-dropdown">
+    <label>Max year</label>
+    <div class="dropdown" id="max-dropdown">
+      <div class="selected">2025</div>
+      <i class="fa-solid fa-angle-down arrow"></i>
+      <ul class="options">
+                <li>2000</li>
+        <li>2001</li>
+        <li>2002</li>
+        <li>2003</li>
+        <li>2004</li>
+        <li>2005</li>
+        <li>2006</li>
+        <li>2007</li>
+        <li>2008</li>
+        <li>2009</li>
+        <li>2010</li>
+        <li>2011</li>
+        <li>2012</li>
+        <li>2013</li>
+        <li>2014</li>
+        <li>2015</li>
+        <li>2016</li>
+        <li>2017</li>
+        <li>2018</li>
+        <li>2019</li>
+        <li>2020</li>
+        <li>2021</li>
+        <li>2022</li>
+        <li>2023</li>
+        <li>2024</li>
+        <li>2025</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+   
+<div class="filter-group price-range">
+  <label class="price-pg">Price</label>
+   <div class="price-inputs">
+    <div class="price-box">
+      <span class="label">Min price</span>
+      <span id="min-price">€5,000</span>
+    </div>
+    <div class="price-box">
+      <span class="label">Max price</span>
+      <span id="max-price">€45,000</span>
+    </div>
+  </div>
+  <div class="slider-wrapper">
+    <div class="slider-track" id="slider-track"></div>
+    <input type="range" id="range-min" min="5000" max="100000" step="5000" value="5000">
+    <input type="range" id="range-max" min="5000" max="100000" step="5000" value="45000">
+  </div>
+</div>
+
+
+<div class="filter-group">
+  <label for="mileageRange" class="label-mileage">Mileage (max):</label>
+  <div class="slider-container">
+    <input
+      type="range"
+      id="mileageRange"
+      class="slider-input"
+      name="mileageRange"
+      min="0"
+      max="300000"
+      step="10000"
+      value="150000"
+    />
+  </div>
+  <span id="mileageDisplay">150,000 km</span>
+</div>
+
+
+
+     <div class="filter-group">
+  <label>Fuel Type:</label>
+  <div class="checkbox-group">
+    <label><input type="checkbox" name="fuel" value="petrol"> Petrol</label>
+    <label><input type="checkbox" name="fuel" value="diesel"> Diesel</label>
+    <label><input type="checkbox" name="fuel" value="hybrid"> Hybrid</label>
+    <label><input type="checkbox" name="fuel" value="electric"> Electric</label>
+  </div>
+</div>
+
+
+<div class="filter-group">
+  <label>Transmission:</label>
+  <div class="checkbox-group">
+    <label><input type="checkbox" name="transmission" value="manual"> Manual</label>
+    <label><input type="checkbox" name="transmission" value="automatic"> Automatic</label>
+  </div>
+</div>
+
+        
+
+    <div class="filter-group">
+        <label for="doors">Number of Doors:</label>
+        <select id="doors" name="doors">
+        <option value="">All</option>
+        <option value="2">2</option>
+        <option value="4">4</option>
+        <option value="5">5+</option>
+        </select>
+    </div>
+
+    <div class="filter-group">
+        <label for="color">Color:</label>
+        <select id="color" name="color">
+        <option value="">All</option>
+        <option value="black">Black</option>
+        <option value="white">White</option>
+        <option value="gray">Gray</option>
+        <option value="red">Red</option>
+        </select>
+    </div>
+
+    <div class="filter-group">
+        <label for="condition">Condition:</label>
+        <select id="condition" name="condition">
+        <option value="">All</option>
+        <option value="new">New</option>
+        <option value="used">Used</option>
+        </select>
+    </div>
+
+    <button id="applyFiltersBtn" class="filter-btn">Apply Filters</button>
+    </aside>
+
+
+
+   <!-- car listing section -->
+    <div class="car-listing-section">
+  <div class="listing-header">
+    <span class="showing-count">Showing 1 to 3 of 1559 vehicles</span>
+    <select class="sort-dropdown">
+      <option value="">Sort by: Any Makes</option>
+      <option value="price-low">Price: Low-High</option>
+      <option value="price-high">Price: High-Low</option>
+      <option value="km">Lowest Mileage</option>
+    </select>
+  </div>
+
+
+
+  <div class="car-cards-container">
+
+</div> 
+
+
+
+ <!-- Pjesa e Paginimit posht kerreve  -->
+<nav class="pagination">
+  <button class="page-btn" aria-label="Previous">
+    <i class="fa-solid fa-angle-left"></i>
+  </button>
+  <button class="page-btn active">1</button>
+  <button class="page-btn">2</button>
+  <button class="page-btn">3</button>
+  <span class="ellipsis">…</span>
+  <button class="page-btn">99</button>
+  <button class="page-btn" aria-label="Next">
+    <i class="fa-solid fa-angle-right"></i>
+  </button>
+</nav>
+
+</div>
+<!-- BOXSHADOWI SI TE MIN MAX PRICI   box-shadow: 0 2px 8px rgba(0,0,0,0.1); -->
+
+
+ <!--kontenjeri i kartave --></div>  <!--kontenjeri i kartave -->
+ 
+
+ <script src="js/cars.json"></script> 
+       <script src="js/filters-final.js"></script>
+       <script src="js/javascript.js"></script>
+
+       
+
+</body>
+</html>
+
+

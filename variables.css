@@ -1,0 +1,20 @@
+:root {
+
+     /* bg color */
+  --color-bg-light: #2D3951;
+  --color-bg-dark: #253044;
+  --color-bg-nav: #151E2D;
+
+  --color-bg-yllw: #F7B916;
+
+  --color-text-primary: #F7B916;
+  --color-text-light: #5E7595;
+
+
+  --color-gray-: #A59B9B;
+  --color-gray-light: #cacaca;
+ 
+  --color-hover: #F7B916;
+
+  --color-box: #566173;
+}

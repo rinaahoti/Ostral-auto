@@ -1,0 +1,23 @@
+.contact-popup {
+  display: none;
+  position: fixed; inset: 0; z-index: 9999;
+  background: rgba(0,0,0,.6);
+  justify-content: center; align-items: center;
+}
+.popup-content {
+  background: #fff; width: 360px; max-width: 92vw;
+  padding: 18px; border-radius: 12px; position: relative;
+  box-shadow: 0 10px 30px rgba(0,0,0,.25);
+}
+.popup-content h2 { margin: 0 0 10px; font-size: 20px; }
+.popup-content input, .popup-content textarea {
+  width: 100%; padding: 10px; margin: 6px 0;
+  border: 1px solid #ddd; border-radius: 8px;
+  font: inherit;
+}
+.popup-content textarea { min-height: 110px; resize: vertical; }
+.popup-content .btn-main { width: 100%; }
+.close-popup {
+  position: absolute; right: 12px; top: 8px;
+  font-size: 22px; cursor: pointer; line-height: 1;
+}
